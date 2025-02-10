@@ -1,4 +1,4 @@
-# autoencoderDataset
+# autoencoderDatasetHealthy
 
 TASK == WALKING | CONDITION == HEALTHY
 
